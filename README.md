@@ -5,3 +5,4 @@ Conexão de dados realizada pelo XAMPP
 
 Colaboradores:
 Mariana Reibnitz
+Gabriel Moraes (eu)
